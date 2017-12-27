@@ -7,6 +7,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 //  读取网页的html
+// 第一种方法不可用
 public class Test {
 
 	
