@@ -6,8 +6,10 @@ import java.io.InputStreamReader;
 import java.net.MalformedURLException;
 import java.net.URL;
 
+//  读取网页的html
 public class Test {
 
+	
 	public static void main(String[] args) {
 		
 	/*	try {
